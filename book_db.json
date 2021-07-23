@@ -4464,6 +4464,15 @@
       "status": "MEAP",
       "authors": ["Emmit A. Scott", "Jr."],
       "categories": []
+    },
+    {
+      "title": "Test",
+      "isbn": "Test",
+      "pageCount": 0,
+      "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/scott2.jpg",
+      "status": "MEAP",
+      "authors": ["Emmit A. Scott", "Jr."],
+      "categories": []
     }
   ]
 }
